@@ -22,7 +22,7 @@ For the successful execution of the code, you need to follow the steps.
 
 Congrats! you have completed the basic steps.
 
-To run the code on your datasets, you need an IDE for this particular project to parse and run the .dll files, for example (PyCharm, MS Visual Studio Code). This won't run on Anaconda Navigator or Google Colaboratory. 
+To run the code on your datasets, you need an IDE for this particular project to parse and run the .dll files contained in the PhiRelevance module, for example (PyCharm, MS Visual Studio Code). This won't run on Anaconda Navigator or Google Colaboratory. 
 
 
 
