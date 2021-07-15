@@ -6,7 +6,9 @@ The Static and Dynamic Relevance module in Python is used to predict rare events
 
 **Authors:**
 Prof Dr. Paula Branco, pbranco@uottawa.ca
+
 Mayukh Bhattacharjee, mayukhofficial12@gmail.com
+
 Durga Prasad Rangavajjala, drang041@uottawa.ca
 
 
